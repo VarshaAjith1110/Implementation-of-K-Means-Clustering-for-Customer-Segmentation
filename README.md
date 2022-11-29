@@ -81,11 +81,13 @@ plt.title("Customer Segmets")
 
 ![m3](https://user-images.githubusercontent.com/94222288/204590077-2a1718f1-9433-4fe7-99ca-56680653c85b.png)
 
+# Graph - No. of clusters Vs wcss:
 ![m4](https://user-images.githubusercontent.com/94222288/204590121-ae1a1967-9d8d-49a8-b78f-97a52c67c6b8.png)
 
-
+# Prediction value (y_pred):
 ![m51](https://user-images.githubusercontent.com/94222288/204590222-c098f509-ebd4-4cb2-8e5d-147c0d725557.png)
 
+# Customer Segements (cluster):
 ![m6](https://user-images.githubusercontent.com/94222288/204590337-917c5777-828d-4bbf-be4b-829357cc7d3a.png)
 
 
